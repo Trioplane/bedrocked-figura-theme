@@ -1,4 +1,5 @@
-# ![Bedrocked Icon](./assets/figura/icon.png) Bedrocked 
+![Bedrocked Icon](./assets/figura/bedrocked-icon.png)
+# Bedrocked 
 ## A Figura Theme that mimics the look of the new Minecraft Bedrock UI
 ### by @trplnr
 
